@@ -17,9 +17,6 @@ A desktop application for managing employee records built with Python, Tkinter, 
 - MySQL (Database)
 - mysql-connector-python
 
-## Screenshots
-
-*(Add screenshots of your application here)*
 
 ## Installation
 
